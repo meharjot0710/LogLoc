@@ -1,0 +1,3 @@
+Run this command in the terminal to download all the modules
+
+pip install opencv-python face-recognition pandas openpyxl
